@@ -1,4 +1,4 @@
-# My *first* Holberton School project#  
+# My *first* Holberton School project  
   
 This project consists of:  
 1. Creating a repository in GitHub [^1]  
