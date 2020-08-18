@@ -1,8 +1,8 @@
 # My *first* Holberton School project#  
   
 This project consists of:  
-1. Creating a repository in GitHub[^1]  
-2. Using an Ubuntu[^2] virtual environment:  
+1. Creating a repository in GitHub [^1]  
+2. Using an Ubuntu [^2] virtual environment:  
 * Create a directory  
 * Create this file in it  
 * Add the file in the created repository, commit the change and push it to the remote server.  
